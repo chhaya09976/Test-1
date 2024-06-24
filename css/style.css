@@ -1,8 +1,7 @@
 @font-face {
     font-family:"GT Walsheim Pro" ;
-    src: url("GTWalsheimProBold");
-}
-:root{
+    src: url("C:\\Users\\Chhaya\\Downloads\\GTWalsheimProBold.ttf");
+}:root{
     --tertiary-color: #FDF8F8;
     --primary-color:#fff;
     --secondary-color:#000;
