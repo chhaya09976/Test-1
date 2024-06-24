@@ -33,7 +33,7 @@ header{
     height: 88px;
     border-radius: 0px 0px 8px 8px;
     background-color: var(--orange-color);
-    color: var(--primary-color);
+   text-align:center;
     flex-shrink: 0;
 }
 .logo{
