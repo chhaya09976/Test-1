@@ -1,3 +1,7 @@
+@font-face {
+    font-family:"GT Walsheim Pro" ;
+    src: url("GTWalsheimProBold");
+}
 :root{
     --tertiary-color: #FDF8F8;
     --primary-color:#fff;
